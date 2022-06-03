@@ -1,0 +1,59 @@
+.sticky {
+  overflow: hidden;
+  background-color: cyan;
+}
+
+.sticky a {
+  float: right;
+  color: #252121;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+.sticky a.split {
+  float: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+aside{
+  float: left;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+td, th {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+footer {
+  background-color: slategray;
+}
+table {
+  width: 100%;
+}
+
+/* input[id=message] {
+  border: 2px solid black;
+  border-radius: 4px;
+  width: 80%;
+  height: 100px;
+}
+input[id="name, email"] {
+  border: 2px solid black;
+  border-radius: 4px;
+  width: 30%;
+  height: 40px;
+}
+/* input[id=email] {
+  border: 2px solid black;
+  border-radius: 4px;
+  width: 30%;
+  height: 40px;
+} */ 
